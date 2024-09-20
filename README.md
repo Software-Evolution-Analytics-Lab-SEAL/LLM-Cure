@@ -1,4 +1,4 @@
-# Replication Package for LLM-Cure Study
+# Replication Package for LLM-Cure: LLM-based Competitor User Review Analysis for Feature Enhancement
 This repository contains the replication package for the study on feature assignment, feature extraction, and improvement suggestions for mobile applications using LLM-Cure. Below are the details of the repository contents and instructions for usage.
 
 ## Abstract
